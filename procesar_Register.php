@@ -27,7 +27,7 @@ if (isset($usuarios[$username])) {
 
     echo "El nombre de usuario ya existe. Por favor, elige otro.";
     echo "<br>";
-    echo "<a href='login_index.php'> o iniciar sesion</a>";
+    echo "<a href='index.php'> o iniciar sesion</a>";
     echo "<br>";
 
 } else {
