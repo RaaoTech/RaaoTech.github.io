@@ -41,7 +41,7 @@ if (isset($usuarios[$username])) {
         echo "Tu contrasena no ha sido encontrada, vuelve a intentarlo";
 
         echo "<br>";
-        echo "<a href='login_index.php'> iniciar otra vez sesion</a>";
+        echo "<a href='index.php'> iniciar otra vez sesion</a>";
         echo "<br>";
         echo "<a href='registro.php'> intenta Registrarte</a>";
     };
@@ -51,7 +51,7 @@ if (isset($usuarios[$username])) {
     echo "Tu Usuario no ha sido encontrado, vuelve a intentarlo";
 
         echo "<br>";
-        echo "<a href='login_index.php'> iniciar otra vez sesion</a>";
+        echo "<a href='index.php'> iniciar otra vez sesion</a>";
         echo "<br>";
         echo "<a href='registro.php'> intenta Registrarte</a>";
 
