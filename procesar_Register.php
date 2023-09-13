@@ -27,7 +27,7 @@ if (isset($usuarios[$username])) {
 
     echo "El nombre de usuario ya existe. Por favor, elige otro.";
     echo "<br>";
-    echo "<a href='index.php'> o iniciar sesion</a>";
+    echo "<a href='index.html'> o iniciar sesion</a>";
     echo "<br>";
 
 } else {
@@ -43,7 +43,7 @@ if (isset($usuarios[$username])) {
     echo "Registro exitoso. Ahora puedes iniciar sesión.";
 
     echo "<br>";
-    echo "<a href='login_index.php'> iniciar sesion</a>";
+    echo "<a href='login_index.html'> iniciar sesion</a>";
     echo "<br>";
 }
 ?>
