@@ -99,7 +99,7 @@
             <button type="submit">Registrarse</button>
         </form>
         <div class="login-link">
-            <p>¿Ya tienes una cuenta? <a href="login_index.php">Iniciar Sesión</a></p>
+            <p>¿Ya tienes una cuenta? <a href="index.php">Iniciar Sesión</a></p>
         </div>
     </div>
 </body>
