@@ -119,7 +119,7 @@ if (file_exists($archivo_json)) {
 <body>
     <header>
 
-        <form action="index.php" method="post">
+        <form action="index.html" method="post">
 
             <button id="cerrar-boveda">Cerrar Bóveda</button>
 
